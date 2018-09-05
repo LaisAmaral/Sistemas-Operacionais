@@ -1,5 +1,14 @@
 ## Disciplina de Sistemas Operacionais
 
+## Atividade 2: Definir Cenário Geral e Realizar Alteraçoes (05/09/18)
+
+Cenário Geral: <br/>
+
+5 Itens que serão alterados: <br/>
+
+Tabela com 10 experimento com o comando time para cada item: <br/>
+
+
 ## Atividade 2: Gravação da instalação do ambiente (04/09/18)
 
 Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Cliente Mosquitto.
