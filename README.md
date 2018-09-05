@@ -4,13 +4,19 @@
 
 Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Cliente Mosquitto.
 
-https://www.youtube.com/watch?v=K2IsVngCcDc
+Video :https://www.youtube.com/watch?v=K2IsVngCcDc <br/>
 
+[![](https://img.youtube.com/vi/K2IsVngCcDc/0.jpg)](https://www.youtube.com/watch?v=K2IsVngCcDc)
+
+<br/>
 
 Simulação de teste de comunicação do Protocolo MQTT.
 
-https://www.youtube.com/watch?v=1WYMytqY4DU
+Video :https://www.youtube.com/watch?v=1WYMytqY4DU <br/>
 
+[![](https://img.youtube.com/vi/1WYMytqY4DU/0.jpg)](https://www.youtube.com/watch?v=1WYMytqY4DU)
+
+<br/>
 
 ## Atividade 1: Instalação do VM, do Debian e Definição do Tema (29/08/18)
 
