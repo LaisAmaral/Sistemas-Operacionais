@@ -1,5 +1,11 @@
 ## Disciplina de Sistemas Operacionais
 
+## Atividade 6 - Subprocessos e acompanhamento de projetos (19/09/18)
+
+## Atividade 5 - Entrada e Saída (18/09/18)
+
+## Atividade 4 - Systems Calls (11/09/18)
+
 ## Atividade 2: Definir Cenário Geral e Realizar Alteraçoes (05/09/18)
 
 Cenário Geral: <br/>
@@ -7,6 +13,8 @@ Cenário Geral: <br/>
 5 Itens que serão alterados: <br/>
 
 Tabela com 10 experimento com o comando time para cada item: <br/>
+
+<a href="https://imgur.com/nJnef2O"><img src="https://imgur.com/nJnef2O.jpg" title="source: imgur.com" /></a>)
 
 
 ## Atividade 2: Gravação da instalação do ambiente (04/09/18)
