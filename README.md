@@ -6,7 +6,7 @@
 
 ## Atividade 4 - Systems Calls (11/09/18)
 
-## Atividade 2: Definir Cenário Geral e Realizar Alteraçoes (05/09/18)
+## Atividade 3: Definir Cenário Geral e Realizar Alteraçoes (05/09/18)
 
 Cenário Geral: <br/>
 
