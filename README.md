@@ -1,10 +1,12 @@
 ## Disciplina de Sistemas Operacionais
 
-## Atividade 7 - Acompanhamento de projetos (02/10/18)
 
-1) descreve o cenário de teste;
-2) analise a quantidade de threads para cada processo;
-3) analise a troca de contexto e os estados de cada thread.
+## Atividade 7 - 	Gerenciamento do armazenamento secundário - sistemas de Arquivos (03/10/18) - Aula 10
+
+
+## Atividade 7 - 	Gerenciamento do Armazenamento Secundário e Sistemas de Arquivos (02/10/18) - Aula 09
+
+Utilize o comando fdisk -l e hdparm -t <disco> para verificar respectivamente as partições e velocidade de leitura dos discos. Exemplifique os comandos no seu projeto: pwd, ls -l, chmod, cd, mkdir, rm, rmdir, mv, cp 
 
 ## Atividade 6 - Subprocessos e acompanhamento de projetos (19/09/18)
 
