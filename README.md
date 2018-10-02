@@ -2,7 +2,32 @@
 
 ## Atividade 6 - Subprocessos e acompanhamento de projetos (19/09/18)
 
+Acompanhamento de projetos:
+
+<a href="https://imgur.com/qJ0CIim"><img src="https://imgur.com/qJ0CIim.jpg" title="source: imgur.com" /></a>
+
+Mosquitto é um módulo em python que oferece as funcionalidades do MQTT.
+Use o mosquitto_sub p/ assinar um tópico e o mosquitto_pub para publicar.
+
+mosquitto_sub -h localhost -t "testtopic" -v (Tópico assinado)
+  
+mosquitto_pub -h localhost -t "testtopic" -m "Testing" (Postagem no tópico, KDE do Konsole 2,aonde é possível verificar que consta no KDE do Konsole 1).
+
+sudo service mosquitto status (Verificação de status do mosquitto)
+ 
+É possível utilizar:
+ 
+sudo service mosquitto start (iniciar),
+sudo service mosquitto stop  (parar) e
+sudo service mosquitto restart (reiniciar)
+
+
 ## Atividade 5 - Entrada e Saída (18/09/18)
+
+<a href="https://imgur.com/ftz6XYE"><img src="https://imgur.com/ftz6XYE.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/PozjqMp"><img src="https://imgur.com/PozjqMp.jpg" title="source: imgur.com" /></a>
+
 
 ## Atividade 4 - Systems Calls (11/09/18)
 
@@ -20,6 +45,9 @@ Tabela com 10 experimento com o comando time para cada item: <br/>
 ## Atividade 2: Gravação da instalação do ambiente (04/09/18)
 
 Neste vídeo mostramos a instalação, por linha de comando, do Servidor e Cliente Mosquitto.
+
+sudo apt-get install mosquitto
+sudo apt-get install mosquitto-clients
 
 Video :https://www.youtube.com/watch?v=K2IsVngCcDc <br/>
 
