@@ -1,5 +1,11 @@
 ## Disciplina de Sistemas Operacionais
 
+## Atividade 7 - Acompanhamento de projetos (02/10/18)
+
+1) descreve o cenário de teste;
+2) analise a quantidade de threads para cada processo;
+3) analise a troca de contexto e os estados de cada thread.
+
 ## Atividade 6 - Subprocessos e acompanhamento de projetos (19/09/18)
 
 Acompanhamento de projetos:
