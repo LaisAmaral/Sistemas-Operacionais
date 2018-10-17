@@ -1,14 +1,21 @@
 ## Disciplina de Sistemas Operacionais
 
+## Acompanhamento de projetos (Protocolo MQTT) (10/10/18)
+
+Verifique se está ocorrendo um deadlock ou starvation no seu projeto com os seguintes comandos: sudo cat /proc/PID/syscall, sudo cat /proc/PID/task/PID/syscall e strace -s4096 -p PID. Se estiver ocorrendo starvation ou deadlock, o strace tem a palavra futex_wait no resultado e o arquivo syscall contém 202 no primeiro valor. Se não for encontrado starvation ou deadlock, simule um starvation ou deadlock e avalie com esses comandos.. 	 
 
 ## Atividade 7 - 	Gerenciamento do armazenamento secundário - sistemas de Arquivos (03/10/18) - Aula 10
 
+- (a) - Utilize o blkid para visualizar cada partição relacionada a seu projeto. (isso inclui o pendrive) (b) - Exemplifique como o stat pode ser útil ao seu projeto. (c) - crie duas partições no pendrive, formate cada uma de forma que uma partição terá blocos de 4k e outra de 64k. Depois avalie o tempo de copiar arquivos em cada partição. *) utilizar o gparted 	 
 
-## Atividade 7 - 	Gerenciamento do Armazenamento Secundário e Sistemas de Arquivos (02/10/18) - Aula 09
+## Atividade 6 - 	Gerenciamento do Armazenamento Secundário e Sistemas de Arquivos (02/10/18) - Aula 09
 
 Utilize o comando fdisk -l e hdparm -t <disco> para verificar respectivamente as partições e velocidade de leitura dos discos. Exemplifique os comandos no seu projeto: pwd, ls -l, chmod, cd, mkdir, rm, rmdir, mv, cp 
 
-## Atividade 6 - Subprocessos e acompanhamento de projetos (19/09/18)
+## Acompanhamento de projetos (Protocolo MQTT) (02/10/18)
+
+
+## Acompanhamento de projetos (Protocolo MQTT) (19/09/18)
 
 Acompanhamento de projetos:
 
@@ -30,7 +37,7 @@ sudo service mosquitto stop  (parar) e
 sudo service mosquitto restart (reiniciar)
 
 
-## Atividade 5 - Entrada e Saída (18/09/18)
+## Atividade 5 - Definir o Cenário contendo dispositivos de entrada e saída (18/09/18)
 
 <a href="https://imgur.com/ftz6XYE"><img src="https://imgur.com/ftz6XYE.jpg" title="source: imgur.com" /></a>
 
