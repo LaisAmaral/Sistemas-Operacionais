@@ -39,6 +39,18 @@ sudo service mosquitto restart (reiniciar)
 
 ## Atividade 4 - Systems Calls (11/09/18)
 
+<a href="https://imgur.com/c0YIzh9"><img src="https://imgur.com/c0YIzh9.jpg" title="source: imgur.com" /></a>
+Criação de system call saida.txt e systemscalls.txt
+
+
+<a href="https://imgur.com/gUL1GZJ"><img src="https://imgur.com/gUL1GZJ.jpg" title="source: imgur.com" /></a>
+Arquivos já criados
+
+
+<a href="https://imgur.com/FtSgbxP"><img src="https://imgur.com/FtSgbxP.jpg" title="source: imgur.com" /></a>
+Arquivo saida.txt na pasta pessoal
+
+
 ## Atividade 3: Definir Cenário Geral e Realizar Alteraçoes (05/09/18)
 
 Cenário Geral: <br/>
