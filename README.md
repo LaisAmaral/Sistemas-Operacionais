@@ -11,6 +11,10 @@ Verifique se está ocorrendo um deadlock ou starvation no seu projeto com os seg
 ## Atividade 6 - 	Gerenciamento do Armazenamento Secundário e Sistemas de Arquivos (02/10/18) - Aula 09
 
 Utilize o comando fdisk -l e hdparm -t <disco> para verificar respectivamente as partições e velocidade de leitura dos discos. Exemplifique os comandos no seu projeto: pwd, ls -l, chmod, cd, mkdir, rm, rmdir, mv, cp 
+  
+ <a href="https://imgur.com/LET0j0w"><img src="https://imgur.com/LET0j0w.jpg" title="source: imgur.com" /></a>
+ 
+ <a href="https://imgur.com/SnyGb4D"><img src="https://imgur.com/SnyGb4D.jpg" title="source: imgur.com" /></a>
 
 ## Acompanhamento de projetos (Protocolo MQTT) (02/10/18)
 
