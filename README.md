@@ -1,5 +1,9 @@
 ## Disciplina de Sistemas Operacionais
 
+## Atividade 8 -	Gerenciamento de Processos (30/10/18)
+
+Atividade 8: 1. Defina um cenário do seu projeto em um código em bash script ou em python. 2. Com o código definido em 1, crie um ou mais processos em back groud (&). 3. Exemplifique o uso dos seguintes comandos com o código definido em 1: jobs, fg, bg e ps aux. 
+
 ## Acompanhamento de projetos (Protocolo MQTT) (10/10/18)
 
 Verifique se está ocorrendo um deadlock ou starvation no seu projeto com os seguintes comandos: sudo cat /proc/PID/syscall, sudo cat /proc/PID/task/PID/syscall e strace -s4096 -p PID. Se estiver ocorrendo starvation ou deadlock, o strace tem a palavra futex_wait no resultado e o arquivo syscall contém 202 no primeiro valor. Se não for encontrado starvation ou deadlock, simule um starvation ou deadlock e avalie com esses comandos.. 	 
